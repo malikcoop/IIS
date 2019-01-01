@@ -1,0 +1,7 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2018-12-26 22:10:27
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2018-12-26 22:10:27 ::1 GET / - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64;+rv:64.0)+Gecko/20100101+Firefox/64.0 - 200 0 0 610
+2018-12-26 22:10:27 ::1 GET /iis-85.png - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64;+rv:64.0)+Gecko/20100101+Firefox/64.0 http://localhost/ 200 0 0 48
+2018-12-26 22:10:27 ::1 GET /favicon.ico - 80 - ::1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64;+rv:64.0)+Gecko/20100101+Firefox/64.0 - 404 0 64 46
